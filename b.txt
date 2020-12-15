@@ -1,2 +1,3 @@
+third line of commit
 another line just test second
 first line edit from here
